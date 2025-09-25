@@ -51,7 +51,7 @@ Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
 ```git
-git clone [https://github.com/](https://github.com/)<your-username>/pet-care-shop-django.git
+***git clone [https://github.com/keerthanaapillaram/Internship-Project *** 
 cd pet-care-shop-django
 ```
 
