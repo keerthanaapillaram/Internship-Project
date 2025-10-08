@@ -93,9 +93,6 @@ python manage.py runserver
 ```
 The project will be available at http://127.0.0.1:8000/. You can access the admin dashboard at http://127.0.0.1:8000/admin/.
 
-### 🤝 Contributing
-Contributions are welcome! If you have suggestions for improving the project, please feel free to fork the repository and submit a pull request. You can also open an issue with the "enhancement" tag.
-
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
